@@ -7,7 +7,7 @@ $title = "Genisis Rosales y Francisca Paillas ";
 $description = "Tablas y gráficos sobre diseño en la universidad de chile";
 //Cambien la url en $image por la que corresponda a su sitio
 //Primero suban la imagen a la carpeta en github, y vincúlenla con la URL que tenga allá como RAW.
-$image = "https://raw.githubusercontent.com/profesorfaco/visualizaciones/master/images/homers-web-page.gif";
+$image = "https://github.com/genisisr/notaparcial_22mayo/blob/master/paillas_rosales/images/logo-facultad-de-arquitectura-y-urbanismo-universidad-de-chile-fau.png?raw=true";
 ?>
 <head>
 <meta charset="utf-8">
