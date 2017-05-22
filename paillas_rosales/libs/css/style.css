@@ -5,7 +5,7 @@ a[href^="http://"]:hover ,a[href^="https://"]:hover {text-decoration:none;}
 
 :hover{transition: color ease .25s;}
 h1,h2,h3,h4,h5,h6{font-family: 'Archivo Black', sans-serif; margin-bottom: 1em; line-height:1.35;}
-h1{font-size:1.8em; color:#444;}
+h1{font-size:1.8em; color:#ccc;}
 h2{font-size:1.8em; color:#aaa;}
 h3{font-size:1.5em; color:#222;}
 h4{font-size:1.2em; color:#111;}
